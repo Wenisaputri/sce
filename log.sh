@@ -55,5 +55,5 @@ echo "- Mod By DP VPN" | tee -a log-install.txt
 echo ""
 sleep 1
 clear
-figlet -f slant AFDHAN - NEZA | lolcat
+figlet -f slant DP VPN | lolcat
 rm -f log.sh
