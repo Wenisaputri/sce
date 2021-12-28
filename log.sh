@@ -51,7 +51,7 @@ echo "   - White Label" | tee -a log-install.txt
 echo "   - Installation Log --> /root/log-install.txt"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "=================================-[ AUTOSCRIPT PREMIUM ]-===========================" | tee -a log-install.txt
-echo "- Mod By M AFDHAN & NezaVPN" | tee -a log-install.txt
+echo "- Mod By DP VPN" | tee -a log-install.txt
 echo ""
 sleep 1
 clear
