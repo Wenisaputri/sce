@@ -9,89 +9,89 @@ rm -rf master.zip
 
 figlet -f slant Waiting... | lolcat
 sleep 1
-wget -O /usr/bin/ssr https://raw.githubusercontent.com/Afdhan/esesha/main/ssrmu.sh && chmod +x /usr/bin/ssr
-wget -O /usr/bin/add-ssr https://raw.githubusercontent.com/Afdhan/esesha/main/add-ssr.sh && chmod +x /usr/bin/add-ssr
-wget -O /usr/bin/del-ssr https://raw.githubusercontent.com/Afdhan/esesha/main/del-ssr.sh && chmod +x /usr/bin/del-ssr
-wget -O /usr/bin/renew-ssr https://raw.githubusercontent.com/Afdhan/esesha/main/renew-ssr.sh && chmod +x /usr/bin/renew-ssr
-wget -O /usr/bin/add-l2tp https://raw.githubusercontent.com/Afdhan/esesha/main/add-l2tp.sh && chmod +x /usr/bin/add-l2tp
-wget -O /usr/bin/del-l2tp https://raw.githubusercontent.com/Afdhan/esesha/main/del-l2tp.sh && chmod +x /usr/bin/del-l2tp
-wget -O /usr/bin/add-pptp https://raw.githubusercontent.com/Afdhan/esesha/main/add-pptp.sh && chmod +x /usr/bin/add-pptp
-wget -O /usr/bin/del-pptp https://raw.githubusercontent.com/Afdhan/esesha/main/del-pptp.sh && chmod +x /usr/bin/del-pptp
-wget -O /usr/bin/renew-pptp https://raw.githubusercontent.com/Afdhan/esesha/main/renew-pptp.sh && chmod +x /usr/bin/renew-pptp
-wget -O /usr/bin/renew-l2tp https://raw.githubusercontent.com/Afdhan/esesha/main/renew-l2tp.sh && chmod +x /usr/bin/renew-l2tp
-wget -O /usr/bin/add-sstp https://raw.githubusercontent.com/Afdhan/esesha/main/add-sstp.sh && chmod +x /usr/bin/add-sstp
-wget -O /usr/bin/del-sstp https://raw.githubusercontent.com/Afdhan/esesha/main/del-sstp.sh && chmod +x /usr/bin/del-sstp
-wget -O /usr/bin/cek-sstp https://raw.githubusercontent.com/Afdhan/esesha/main/cek-sstp.sh && chmod +x /usr/bin/cek-sstp
-wget -O /usr/bin/renew-sstp https://raw.githubusercontent.com/Afdhan/esesha/main/renew-sstp.sh && chmod +x /usr/bin/renew-sstp
-wget -O /usr/bin/cek-pptp https://raw.githubusercontent.com/Afdhan/esesha/main/cek-pptp.sh && chmod +x /usr/bin/cek-pptp
+wget -O /usr/bin/ssr https://raw.githubusercontent.com/Wenisaputri/esesha/main/ssrmu.sh && chmod +x /usr/bin/ssr
+wget -O /usr/bin/add-ssr https://raw.githubusercontent.com/Wenisaputri/esesha/main/add-ssr.sh && chmod +x /usr/bin/add-ssr
+wget -O /usr/bin/del-ssr https://raw.githubusercontent.com/Wenisaputri/esesha/main/del-ssr.sh && chmod +x /usr/bin/del-ssr
+wget -O /usr/bin/renew-ssr https://raw.githubusercontent.com/Wenisaputri/esesha/main/renew-ssr.sh && chmod +x /usr/bin/renew-ssr
+wget -O /usr/bin/add-l2tp https://raw.githubusercontent.com/Wenisaputri/esesha/main/add-l2tp.sh && chmod +x /usr/bin/add-l2tp
+wget -O /usr/bin/del-l2tp https://raw.githubusercontent.com/Wenisaputri/esesha/main/del-l2tp.sh && chmod +x /usr/bin/del-l2tp
+wget -O /usr/bin/add-pptp https://raw.githubusercontent.com/Wenisaputri/esesha/main/add-pptp.sh && chmod +x /usr/bin/add-pptp
+wget -O /usr/bin/del-pptp https://raw.githubusercontent.com/Wenisaputri/esesha/main/del-pptp.sh && chmod +x /usr/bin/del-pptp
+wget -O /usr/bin/renew-pptp https://raw.githubusercontent.com/Wenisaputri/esesha/main/renew-pptp.sh && chmod +x /usr/bin/renew-pptp
+wget -O /usr/bin/renew-l2tp https://raw.githubusercontent.com/Wenisaputri/esesha/main/renew-l2tp.sh && chmod +x /usr/bin/renew-l2tp
+wget -O /usr/bin/add-sstp https://raw.githubusercontent.com/Wenisaputri/esesha/main/add-sstp.sh && chmod +x /usr/bin/add-sstp
+wget -O /usr/bin/del-sstp https://raw.githubusercontent.com/Wenisaputri/esesha/main/del-sstp.sh && chmod +x /usr/bin/del-sstp
+wget -O /usr/bin/cek-sstp https://raw.githubusercontent.com/Wenisaputri/esesha/main/cek-sstp.sh && chmod +x /usr/bin/cek-sstp
+wget -O /usr/bin/renew-sstp https://raw.githubusercontent.com/Wenisaputri/esesha/main/renew-sstp.sh && chmod +x /usr/bin/renew-sstp
+wget -O /usr/bin/cek-pptp https://raw.githubusercontent.com/Wenisaputri/esesha/main/cek-pptp.sh && chmod +x /usr/bin/cek-pptp
 cd /usr/bin
-wget -O resett "https://raw.githubusercontent.com/Afdhan/esesha/main/rrs.sh"
-wget -O add-ss "https://raw.githubusercontent.com/Afdhan/esesha/main/add-ss.sh"
-wget -O del-ss "https://raw.githubusercontent.com/Afdhan/esesha/main/del-ss.sh"
-wget -O cek-ss "https://raw.githubusercontent.com/Afdhan/esesha/main/cek-ss.sh"
-wget -O renew-ss "https://raw.githubusercontent.com/Afdhan/esesha/main/renew-ss.sh"
-wget -O add-host "https://raw.githubusercontent.com/Afdhan/esesha/main/add-host.sh"
-wget -O about "https://raw.githubusercontent.com/Afdhan/esesha/main/about.sh"
-wget -O menu "https://raw.githubusercontent.com/Afdhan/esesha/main/menu.sh"
+wget -O resett "https://raw.githubusercontent.com/Wenisaputri/esesha/main/rrs.sh"
+wget -O add-ss "https://raw.githubusercontent.com/Wenisaputri/esesha/main/add-ss.sh"
+wget -O del-ss "https://raw.githubusercontent.com/Wenisaputri/esesha/main/del-ss.sh"
+wget -O cek-ss "https://raw.githubusercontent.com/Wenisaputri/esesha/main/cek-ss.sh"
+wget -O renew-ss "https://raw.githubusercontent.com/Wenisaputri/esesha/main/renew-ss.sh"
+wget -O add-host "https://raw.githubusercontent.com/Wenisaputri/esesha/main/add-host.sh"
+wget -O about "https://raw.githubusercontent.com/Wenisaputri/esesha/main/about.sh"
+wget -O menu "https://raw.githubusercontent.com/Wenisaputri/esesha/main/menu.sh"
 wget -O usernew "https://raw.githubusercontent.com/Wenisaputri/esesha/main/usernew.sh"
-wget -O trial "https://raw.githubusercontent.com/Afdhan/esesha/main/trial.sh"
-wget -O hapus "https://raw.githubusercontent.com/Afdhan/esesha/main/hapus.sh"
-wget -O member "https://raw.githubusercontent.com/Afdhan/esesha/main/member.sh"
-wget -O delete "https://raw.githubusercontent.com/Afdhan/esesha/main/delete.sh"
-wget -O cek "https://raw.githubusercontent.com/Afdhan/esesha/main/cek.sh"
-wget -O restart "https://raw.githubusercontent.com/Afdhan/esesha/main/restart.sh"
-wget -O info "https://raw.githubusercontent.com/Afdhan/esesha/main/info.sh"
-wget -O speedtest "https://raw.githubusercontent.com/Afdhan/esesha/main/speedtest_cli.py"
-wget -O ram "https://raw.githubusercontent.com/Afdhan/esesha/main/ram.sh"
-wget -O renew "https://raw.githubusercontent.com/Afdhan/esesha/main/renew.sh"
-wget -O autokill "https://raw.githubusercontent.com/Afdhan/esesha/main/autokill.sh"
-wget -O ceklim "https://raw.githubusercontent.com/Afdhan/esesha/main/ceklim.sh"
-wget -O tendang "https://raw.githubusercontent.com/Afdhan/esesha/main/tendang.sh"
-wget -O change-port "https://raw.githubusercontent.com/Afdhan/esesha/main/change.sh"
-wget -O port-ovpn "https://raw.githubusercontent.com/Afdhan/esesha/main/port-ovpn.sh"
-wget -O port-ssl "https://raw.githubusercontent.com/Afdhan/esesha/main/port-ssl.sh"
-wget -O port-wg "https://raw.githubusercontent.com/Afdhan/esesha/main/port-wg.sh"
-wget -O port-tr "https://raw.githubusercontent.com/Afdhan/esesha/main/port-tr.sh"
-wget -O port-sstp "https://raw.githubusercontent.com/Afdhan/esesha/main/port-sstp.sh"
-wget -O port-squid "https://raw.githubusercontent.com/Afdhan/esesha/main/port-squid.sh"
-wget -O port-ws "https://raw.githubusercontent.com/Afdhan/esesha/main/port-ws.sh"
-wget -O port-vless "https://raw.githubusercontent.com/Afdhan/esesha/main/port-vless.sh"
-wget -O wbmn "https://raw.githubusercontent.com/Afdhan/esesha/main/webmin.sh"
-wget -O xp "https://raw.githubusercontent.com/Afdhan/esesha/main/xp.sh"
-wget -O xp-ws "https://raw.githubusercontent.com/Afdhan/esesha/main/xp-ws.sh"
-wget -O tessh "https://raw.githubusercontent.com/Afdhan/esesha/main/tessh.sh"
-wget -O ssstp "https://raw.githubusercontent.com/Afdhan/esesha/main/ssstp.sh"
-wget -O sssr "https://raw.githubusercontent.com/Afdhan/esesha/main/sssr.sh"
-wget -O ltp "https://raw.githubusercontent.com/Afdhan/esesha/main/ltp.sh"
-wget -O wgg "https://raw.githubusercontent.com/Afdhan/esesha/main/wgg.sh"
-wget -O trj "https://raw.githubusercontent.com/Afdhan/esesha/main/trj.sh"
-wget -O wss "https://raw.githubusercontent.com/Afdhan/esesha/main/wss.sh"
-wget -O vls "https://raw.githubusercontent.com/Afdhan/esesha/main/vls.sh"
-wget -O updatee "https://raw.githubusercontent.com/Afdhan/esesha/main/updatee.sh"
-wget -O hostnya "https://raw.githubusercontent.com/Afdhan/esesha/main/host.sh"
-wget -O auto-reboot "https://raw.githubusercontent.com/Afdhan/esesha/main/auto-reboot.sh"
-wget -O add-ws "https://raw.githubusercontent.com/Afdhan/esesha/main/add-ws.sh"
-wget -O add-vless "https://raw.githubusercontent.com/Afdhan/esesha/main/add-vless.sh"
-wget -O add-tr "https://raw.githubusercontent.com/Afdhan/CDN/main/A/I/U/E/O/trgo.sh"
-wget -O del-ws "https://raw.githubusercontent.com/Afdhan/esesha/main/del-ws.sh"
-wget -O del-vless "https://raw.githubusercontent.com/Afdhan/esesha/main/del-vless.sh"
-wget -O del-tr "https://raw.githubusercontent.com/Afdhan/CDN/main/A/I/U/E/O/del-trgo.sh"
-wget -O cek-ws "https://raw.githubusercontent.com/Afdhan/esesha/main/cek-ws.sh"
-wget -O cek-vless "https://raw.githubusercontent.com/Afdhan/esesha/main/cek-vless.sh"
-wget -O cek-tr "https://raw.githubusercontent.com/Afdhan/esesha/main/cek-tr.sh"
-wget -O renew-ws "https://raw.githubusercontent.com/Afdhan/esesha/main/renew-ws.sh"
-wget -O renew-vless "https://raw.githubusercontent.com/Afdhan/esesha/main/renew-vless.sh"
-wget -O renew-tr "https://raw.githubusercontent.com/Afdhan/esesha/main/renew-tr.sh"
-wget -O certv2ray "https://raw.githubusercontent.com/Afdhan/esesha/main/cert.sh"
-wget -O trialws "https://raw.githubusercontent.com/Afdhan/esesha/main/trialws.sh"
-wget -O add-wg "https://raw.githubusercontent.com/Afdhan/esesha/main/add-wg.sh"
-wget -O del-wg "https://raw.githubusercontent.com/Afdhan/esesha/main/del-wg.sh"
-wget -O cek-wg "https://raw.githubusercontent.com/Afdhan/esesha/main/cek-wg.sh"
-wget -O renew-wg "https://raw.githubusercontent.com/Afdhan/esesha/main/renew-wg.sh"
-wget -O status "https://raw.githubusercontent.com/Afdhan/esesha/main/status.sh"
-wget -O bw "https://raw.githubusercontent.com/Afdhan/esesha/main/bandwith.sh"
-wget -O clear-log "https://raw.githubusercontent.com/Afdhan/esesha/main/clear-log.sh"
-wget -O poin "https://raw.githubusercontent.com/Afdhan/CDN/main/A/I/U/E/O/poin.sh"
+wget -O trial "https://raw.githubusercontent.com/Wenisaputri/esesha/main/trial.sh"
+wget -O hapus "https://raw.githubusercontent.com/Wenisaputri/esesha/main/hapus.sh"
+wget -O member "https://raw.githubusercontent.com/Wenisaputri/esesha/main/member.sh"
+wget -O delete "https://raw.githubusercontent.com/Wenisaputri/esesha/main/delete.sh"
+wget -O cek "https://raw.githubusercontent.com/Wenisaputri/esesha/main/cek.sh"
+wget -O restart "https://raw.githubusercontent.com/Wenisaputri/esesha/main/restart.sh"
+wget -O info "https://raw.githubusercontent.com/Wenisaputri/esesha/main/info.sh"
+wget -O speedtest "https://raw.githubusercontent.com/Wenisaputri/esesha/main/speedtest_cli.py"
+wget -O ram "https://raw.githubusercontent.com/Wenisaputri/esesha/main/ram.sh"
+wget -O renew "https://raw.githubusercontent.com/Wenisaputri/esesha/main/renew.sh"
+wget -O autokill "https://raw.githubusercontent.com/Wenisaputri/esesha/main/autokill.sh"
+wget -O ceklim "https://raw.githubusercontent.com/Wenisaputri/esesha/main/ceklim.sh"
+wget -O tendang "https://raw.githubusercontent.com/Wenisaputri/esesha/main/tendang.sh"
+wget -O change-port "https://raw.githubusercontent.com/Wenisaputri/esesha/main/change.sh"
+wget -O port-ovpn "https://raw.githubusercontent.com/Wenisaputri/esesha/main/port-ovpn.sh"
+wget -O port-ssl "https://raw.githubusercontent.com/Wenisaputri/esesha/main/port-ssl.sh"
+wget -O port-wg "https://raw.githubusercontent.com/Wenisaputri/esesha/main/port-wg.sh"
+wget -O port-tr "https://raw.githubusercontent.com/Wenisaputri/esesha/main/port-tr.sh"
+wget -O port-sstp "https://raw.githubusercontent.com/Wenisaputri/esesha/main/port-sstp.sh"
+wget -O port-squid "https://raw.githubusercontent.com/Wenisaputri/esesha/main/port-squid.sh"
+wget -O port-ws "https://raw.githubusercontent.com/Wenisaputri/esesha/main/port-ws.sh"
+wget -O port-vless "https://raw.githubusercontent.com/Wenisaputri/esesha/main/port-vless.sh"
+wget -O wbmn "https://raw.githubusercontent.com/Wenisaputri/esesha/main/webmin.sh"
+wget -O xp "https://raw.githubusercontent.com/Wenisaputri/esesha/main/xp.sh"
+wget -O xp-ws "https://raw.githubusercontent.com/Wenisaputri/esesha/main/xp-ws.sh"
+wget -O tessh "https://raw.githubusercontent.com/Wenisaputri/esesha/main/tessh.sh"
+wget -O ssstp "https://raw.githubusercontent.com/WenisaputriWenisaputri/esesha/main/ssstp.sh"
+wget -O sssr "https://raw.githubusercontent.com/WenisaputriWenisaputri/esesha/main/sssr.sh"
+wget -O ltp "https://raw.githubusercontent.com/WenisaputriWenisaputri/esesha/main/ltp.sh"
+wget -O wgg "https://raw.githubusercontent.com/WenisaputriWenisaputri/esesha/main/wgg.sh"
+wget -O trj "https://raw.githubusercontent.com/WenisaputriWenisaputri/esesha/main/trj.sh"
+wget -O wss "https://raw.githubusercontent.com/WenisaputriWenisaputri/esesha/main/wss.sh"
+wget -O vls "https://raw.githubusercontent.com/WenisaputriWenisaputri/esesha/main/vls.sh"
+wget -O updatee "https://raw.githubusercontent.com/WenisaputriWenisaputri/esesha/main/updatee.sh"
+wget -O hostnya "https://raw.githubusercontent.com/WenisaputriWenisaputri/esesha/main/host.sh"
+wget -O auto-reboot "https://raw.githubusercontent.com/WenisaputriWenisaputri/esesha/main/auto-reboot.sh"
+wget -O add-ws "https://raw.githubusercontent.com/WenisaputriWenisaputri/esesha/main/add-ws.sh"
+wget -O add-vless "https://raw.githubusercontent.com/WenisaputriWenisaputri/esesha/main/add-vless.sh"
+wget -O add-tr "https://raw.githubusercontent.com/WenisaputriWenisaputri/CDN/main/A/I/U/E/O/trgo.sh"
+wget -O del-ws "https://raw.githubusercontent.com/WenisaputriWenisaputri/esesha/main/del-ws.sh"
+wget -O del-vless "https://raw.githubusercontent.com/WenisaputriWenisaputri/esesha/main/del-vless.sh"
+wget -O del-tr "https://raw.githubusercontent.com/Wenisaputri/CDN/main/A/I/U/E/O/del-trgo.sh"
+wget -O cek-ws "https://raw.githubusercontent.com/Wenisaputri/esesha/main/cek-ws.sh"
+wget -O cek-vless "https://raw.githubusercontent.com/Wenisaputri/esesha/main/cek-vless.sh"
+wget -O cek-tr "https://raw.githubusercontent.com/Wenisaputri/esesha/main/cek-tr.sh"
+wget -O renew-ws "https://raw.githubusercontent.com/Wenisaputri/esesha/main/renew-ws.sh"
+wget -O renew-vless "https://raw.githubusercontent.com/Wenisaputri/esesha/main/renew-vless.sh"
+wget -O renew-tr "https://raw.githubusercontent.com/Wenisaputri/esesha/main/renew-tr.sh"
+wget -O certv2ray "https://raw.githubusercontent.com/Wenisaputri/esesha/main/cert.sh"
+wget -O trialws "https://raw.githubusercontent.com/Wenisaputri/esesha/main/trialws.sh"
+wget -O add-wg "https://raw.githubusercontent.com/Wenisaputri/esesha/main/add-wg.sh"
+wget -O del-wg "https://raw.githubusercontent.com/Wenisaputri/esesha/main/del-wg.sh"
+wget -O cek-wg "https://raw.githubusercontent.com/Wenisaputri/esesha/main/cek-wg.sh"
+wget -O renew-wg "https://raw.githubusercontent.com/Wenisaputri/esesha/main/renew-wg.sh"
+wget -O status "https://raw.githubusercontent.com/Wenisaputri/esesha/main/status.sh"
+wget -O bw "https://raw.githubusercontent.com/Wenisaputri/esesha/main/bandwith.sh"
+wget -O clear-log "https://raw.githubusercontent.com/Wenisaputri/esesha/main/clear-log.sh"
+wget -O poin "https://raw.githubusercontent.com/Wenisaputri/CDN/main/A/I/U/E/O/poin.sh"
 chmod +x resett
 chmod +x add-ss
 chmod +x del-ss
